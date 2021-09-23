@@ -154,3 +154,7 @@ div.child {
     width: 70%;
   }
 }
+.small {
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+  font-size: 15px;
+}
